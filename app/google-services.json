@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_id": "focustodo-3ae12",
+    "project_number": "643897640932",
+    "name": "FocusToDo"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643897640932:android:2990ce487ea5cd5d",
+        "client_id": "android:com.simplelilfe.focustodo",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.simplelilfe.focustodo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643897640932-2hi0jm8hiieoonqcdd959u0n98f5v2ii.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.simplelilfe.focustodo",
+            "certificate_hash": "7A5F3F45D940C349CE1100BEC4C109562D8AFEC5"
+          }
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
